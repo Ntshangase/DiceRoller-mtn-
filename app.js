@@ -5,6 +5,7 @@ class App {
     
     _routes = {}
     _hash = "";
+
     constructor(routes) {
         this._routes = routes;
     }
@@ -36,10 +37,11 @@ class App {
     async render() {
 
         const route = this._routes[this._hash];
-        const data = await route.render();
-        console.log(this._hash);
-        const html = this.loadView(data.view);
+        const data = route.render();
+        const html = await this.loadView(data.view);
         document.getElementById("app").innerHTML = html;
+
+        console.log(data, this._hash); 
 
     }
 
