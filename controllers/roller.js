@@ -1,7 +1,7 @@
 
 var numR;
 
-numR = Math.ceil(Math.random()*14);
+numR = Math.floor(Math.random()*13);
 
 const winner = ["Best Consumer Solution","Best Enterprise Solution","Most Innovative Soulution",
 "Best Gaming Solution", "Best Health Solution","Best Agricultural Solution",
@@ -9,8 +9,10 @@ const winner = ["Best Consumer Solution","Best Enterprise Solution","Most Innova
  "Best 'South African' Solution", "Best Campus Cup Soulution","Best African Solution","Huawei Catergory 15" 
 ];
 
-function selected() {
-    return console.log(winner[numR]);
+ function selected() {
+    return  console.log(winner[numR]);
 }
 
-export default new selected();
+function refreshPage(){
+    window.location.reload();
+}

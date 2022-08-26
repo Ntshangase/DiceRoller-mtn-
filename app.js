@@ -1,5 +1,4 @@
 import { routes } from './controllers/router.js';
-import selected from './controllers/roller.js'
 
 class App {
     
@@ -54,7 +53,6 @@ class App {
         console.log("My name is Ntshangase, a student from MTN App Academy and my Github username is simphiwe323i@gmail.com");
         this.handleRoutes();
         this.render();
-        console.log(selected);
     }
 }
 
