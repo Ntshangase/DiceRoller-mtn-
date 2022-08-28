@@ -25,12 +25,11 @@ Here I flex my JavaScript 'expertise' as I create an application which predicts 
         *moral of the story*: (I wanted to write something funny and deep here but it's taking too much time for me to come up with, so let me git commit&push. because i'm hungry i have to go eat)
 
 # Community :
-This section is for sharing useful reasource's i found online which were helpful in me completing this project.
-I don't know if this has legal impications, as i technically will be sharing other peoples work but i think a big part of the tech community involves sharing of knowledge and helping other. 
-This is my Teach a men(genderless) to fish moment.
-I  have been helped a lot and in my journey and i aim to do the same, so sharing these links is me giving you something deeper than a finished product.
-I really hope it's owk for me to share these links, it's just that right now i don't have the energy to deep dive into the technicalities but i will fi my errors(if any) in future.
-I just thought that i shpuld be able to share the music i was listening too while creating, it would be dope if VS Code had like that function to keep track of the songs you played while woring, since most coder's like playing music while working. Just also realised that this is not an original idea since it happens in Discord i have seen it there. 
-I was playing Sjava:Umsebenzi(Gold delux, E.P), i feel like Sjava would appreciate the E.P, Real fan vibes.
+-This section is for sharing useful reasource's i found online which were helpful in me completing this project.
+-I don't know if this has legal impications, as i technically will be sharing other peoples work but i think a big part of the tech community involves sharing of knowledge and helping other. 
+*This is my Teach a men(genderless) to fish moment*
+-I have been helped a lot in my journey and i aim to do the same, so sharing these links is me giving you something deeper than a finished product.
+-I just thought that i should be able to share the music i was listening too while creating, it would be dope if VS Code had like that function to keep track of the songs you played while woring, since most developers like playing music while working. Just also realised that this is not an original idea since it happens in Discord, i have seen it there. 
+-I was playing Sjava: Umsebenzi(Gold delux) 
 
 This is actually a goal for me, goal reached(yay!!, yay!!)
