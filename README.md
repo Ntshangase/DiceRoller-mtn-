@@ -30,6 +30,7 @@ Here I flex my JavaScript 'expertise' as I create an application which predicts 
 *This is my Teach a men(genderless) to fish moment*
 -I have been helped a lot in my journey and i aim to do the same, so sharing these links is me giving you something deeper than a finished product.
 -I just thought that i should be able to share the music i was listening too while creating, it would be dope if VS Code had like that function to keep track of the songs you played while woring, since most developers like playing music while working. Just also realised that this is not an original idea since it happens in Discord, i have seen it there. 
--I was playing Sjava: Umsebenzi(Gold delux) 
+-I was playing Sjava: Umsebenzi(Gold delux).
+-How to Read and Write to Text Files in JavaScript (Youtube): https://www.youtube.com/watch?v=zMX3gqs3Y7I
 
 This is actually a goal for me, goal reached(yay!!, yay!!)
