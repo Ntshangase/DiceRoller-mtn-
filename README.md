@@ -9,9 +9,9 @@ Here I flex my JavaScript 'expertise' as I create an application which predicts 
 - To execute aim C, please navigate to models folder in your terminal then execute the command ('node win.js').
 
 # The aim of this application is to :
-(A) Log user information, 
-(B) Roll a dice and predict which category will win the MTN Business App of the year Award 2022, 
-(C) Create, open, and read from a textfile.
+- Log user information, 
+- Roll a dice and predict which category will win the MTN Business App of the year Award 2022, 
+- Create, open, and read from a textfile.
 
 # Learning's Diary :
 - How to create a GitHub repository then open it on VScode.
