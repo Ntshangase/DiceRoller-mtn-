@@ -2,8 +2,8 @@
 Here I flex my JavaScript 'expertise' as I create an application which predicts possible winner from a  given data set.
 
 # Instructions on how to use:
-- To run the application you need, Node package manager and have Serve installed(npm install --global serve), then use (serve -l 8000).
-- please open page inspect to view console.log results as some functions results are displayed there.
+- To run the application you need, Node package manager and have Serve installed `npm install --global serve`, then use `serve -l 8000`.
+- please open page inspect to view console, as some results are displayed there.
 - If an error appears after opening page inspect, please refresh page to get clean view.
 - when using the Dice button's, first you throw the dice then pick it up 'from the floor' to get clean new results.
 - To execute aim C, please navigate to models folder in your terminal then execute the command ('node win.js').
