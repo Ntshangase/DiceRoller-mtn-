@@ -50,7 +50,7 @@ class App {
     }
 
     run() {
-        console.log("My name is Ntshangase, a student from MTN App Academy and my Github username is simphiwe323i@gmail.com");
+        console.log("My name is Ntshangase, a student from MTN App Academy and my Github username is Ntshangase");
         this.handleRoutes();
         this.render();
     }
