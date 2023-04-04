@@ -16,7 +16,7 @@ Here I flex my JavaScript 'expertise' as I create an application which predicts 
 # Learning's Diary :
 - How to create a GitHub repository then open it on VScode.
 - Style webpage using HTML,this is an achievment for me becuase one day,
-- The Html Butoon story
+- The Html Button story
 
 # Community :
 - This section is for sharing useful reasource's i found online which were helpful in me completing this project.
